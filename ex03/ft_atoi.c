@@ -6,7 +6,7 @@
 /*   By: muhmajee <muhmajee@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/23 00:06:45 by muhmajee          #+#    #+#             */
-/*   Updated: 2025/08/26 15:47:15 by muhmajee         ###   ########.fr       */
+/*   Updated: 2025/08/28 17:53:39 by muhmajee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@ int	ft_isspace(char c)
 
 int	ft_atoi(char *str)
 {
-	int	sign;
+	int		sign;
 	long	result;
 
 	if (!str)
