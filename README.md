@@ -1,189 +1,51 @@
-<!-- ¡ATENCIÓN! QUIEN VEA ESTE CURRÍCULUM, QUE SE PREPARE PARA QUEDAR CIEGO DE TALENTO. -->
+## 🛠️ Skills & Tech Radar
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ashley%20Cast%20Boix-NEGRO%20Y%20AMARILLO-%23FFD600?style=for-the-badge&logo=star&logoColor=black">
+  <img src="https://img.shields.io/badge/Backend-90%25-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-85%25-2962FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-70%25-00E5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems-80%25-00BFA6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-75%25-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-80%25-FFB300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unix/C-85%25-FF3B30?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="300" alt="Explosion de talento">
-</p>
-
-# 🟡🖤 CURRÍCULUM LEGENDARIO · ASHLEY CAST BOIX 🖤🟡
-
-<p align="center">
-  <b><i>¡El único currículum que te deja sin palabras!<br>
-  Si quieres talento, energía y resultados, sigue leyendo...<br>
-  <span style="font-size:2em;">⚡️</span></i></b>
-</p>
-
----
-
-## 👑 SOBRE MÍ
-
-- **Full Stack Developer** | Sistemas | Redes | Videojuegos
-- Velocidad, ambición y creatividad por encima del estándar
-- Espíritu de equipo, resolución de problemas y actitud imparable
-
----
-
-## 🚀 EXPERIENCIA
-
-| 🕒   | 💼 Puesto                 | 🏢 Empresa       |
-|------|--------------------------|-----------------|
-| 2023-2024 | IT Specialist         | La Miranda      |
-| 2025 | Croupier de Poker         | Casino BCN      |
-
-**Highlights:**  
-- 🔧 Administración de sistemas, redes y soporte técnico  
-- 🔥 Resolución de incidencias, mantenimiento pro, eficiencia máxima  
-- 🎰 Atención premium y gestión bajo presión
-
----
-
-## 🎓 FORMACIÓN
-
-| Año         | Título                                      | Centro                |
-|-------------|---------------------------------------------|-----------------------|
-| 2024-Actual | CFGS Desarrollo de Aplicaciones Multiplataforma | Institut Pedralbes|
-| 2022-2024   | CFGM Sistemas Microinformáticos y Redes      | Salesians de Sarrià   |
-
----
-
-## 🛠️ SKILLS DE OTRO NIVEL
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-FFD600?style=for-the-badge&logo=java&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%23-FFD600?style=for-the-badge&logo=csharp&logoColor=black">
-  <img src="https://img.shields.io/badge/C%2B%2B-FFD600?style=for-the-badge&logo=cpp&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-FFD600?style=for-the-badge&logo=html5&logoColor=black">
-  <img src="https://img.shields.io/badge/CSS3-FFD600?style=for-the-badge&logo=css3&logoColor=black">
-  <img src="https://img.shields.io/badge/Swift-FFD600?style=for-the-badge&logo=swift&logoColor=black">
-  <img src="https://img.shields.io/badge/Unity-FFD600?style=for-the-badge&logo=unity&logoColor=black">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-FFD600?style=for-the-badge&logo=unrealengine&logoColor=black">
-  <img src="https://img.shields.io/badge/React-FFD600?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-FFD600?style=for-the-badge&logo=next.js&logoColor=black">
-  <img src="https://img.shields.io/badge/Express-FFD600?style=for-the-badge&logo=express&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-FFD600?style=for-the-badge&logo=mongodb&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-FFD600?style=for-the-badge&logo=amazonaws&logoColor=black">
-  <img src="https://img.shields.io/badge/Linux-FFD600?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows%20Server-FFD600?style=for-the-badge&logo=windows&logoColor=black">
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Backend','DevOps','Frontend','Systems','Networking','Testing','Unix/C'],datasets:[{label:'Skill Level',data:[90,85,70,80,75,80,85],backgroundColor:'rgba(127,0,255,0.2)',borderColor:'rgba(0,229,255,1)'}]},options:{scale:{angleLines:{color:'#7F00FF'},pointLabels:{color:'#00E5FF'}},plugins:{legend:{display:false}}}}" width="500" alt="Skills Radar Graph"/>
 </p>
 
 ---
 
-### 📊 Dominio de Skills (¡Gráfica visual!)
+### 📊 Skills Breakdown
+
+| Skill      | Level         | Visual       |
+|------------|--------------|--------------|
+| Backend    | Expert       | 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜️ (90%) |
+| DevOps     | Advanced     | 🟦🟦🟦🟦🟦🟦🟦🟦⬜️⬜️ (85%) |
+| Systems    | Advanced     | 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️ (80%) |
+| Unix/C     | Advanced     | 🟥🟥🟥🟥🟥🟥🟥🟥⬜️⬜️ (85%) |
+| Networking | Advanced     | 🟦🟦🟦🟦🟦🟦🟦⬜️⬜️⬜️ (75%) |
+| Testing    | Advanced     | 🟨🟨🟨🟨🟨🟨🟨🟨⬜️⬜️ (80%) |
+| Frontend   | Intermediate | 🟦🟦🟦🟦🟦🟦🟦⬜️⬜️⬜️ (70%) |
+
+---
+
+### 🔥 Tech Stack Badges
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Java','JavaScript','C#','HTML/CSS','Unity/Unreal','React/Next.js','Express/MongoDB','C++/Swift','AWS','Linux/Win Server','Edición de vídeo'],datasets:[{label:'Dominio',data:[90,80,70,100,80,70,60,40,50,70,40],backgroundColor:'rgba(255,214,0,0.9)'}]},options:{scales:{x:{ticks:{color:'black'}},y:{beginAtZero:true,max:100,ticks:{color:'black'}}},plugins:{legend:{display:false}}}}"
-  alt="Bar Chart Skills" width="700">
-</p>
-
-| Skill              | Nivel Visual         | % Dominio |
-|--------------------|---------------------|-----------|
-| Java               | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦        | 90%       |
-| JavaScript         | 🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦        | 80%       |
-| C#                 | 🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦        | 70%       |
-| HTML/CSS           | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨        | 100%      |
-| Unity/Unreal       | 🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦        | 80%       |
-| React/Next.js      | 🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦        | 70%       |
-| Express/MongoDB    | 🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦        | 60%       |
-| C++/Swift          | 🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦        | 40%       |
-| AWS                | 🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦        | 50%       |
-| Linux/Win Server   | 🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦        | 70%       |
-| Edición de vídeo   | 🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦        | 40%       |
-
-_🟨 = Dominio avanzado | 🟦 = Buen manejo | 🟦🟦 = Intermedio_
-
----
-
-### 🎮 Skills en Videojuegos
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-Game%20Dev-%23FFD600?style=for-the-badge&logo=unity&logoColor=black">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-Level%20Design-%23FFD600?style=for-the-badge&logo=unrealengine&logoColor=black">
-</p>
-
-- Diseño de niveles
-- Lógica de gameplay
-- Programación de físicas e IA
-
----
-
-### 🔐 Skills en Sistemas y Redes
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Admin-%23FFD600?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Windows%20Server-Mantenimiento-%23FFD600?style=for-the-badge&logo=windows&logoColor=black">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Ops-%23FFD600?style=for-the-badge&logo=amazonaws&logoColor=black">
-</p>
-
-- Administración de redes y servidores
-- Gestión de máquinas virtuales
-- Resolución de incidencias técnicas
-
----
-
-### 🚀 Skills Creativas y Soft
-
-| Creatividad | 🔥🔥🔥🔥🔥 |
-| Trabajo en equipo | 💪💪💪💪💪 |
-| Aprendizaje rápido | ⚡⚡⚡⚡⚡ |
-| Resolución de problemas | 🚀🚀🚀🚀🚀 |
-| Liderazgo | 👑👑👑👑👑 |
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU3bGVwYm52bDBkZ2c2MGVqcGNiMGt6bDg2bmNndmtlMGF4b3U3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="400" alt="Skills Deslumbrantes"/>
-</p>
-
----
-
-## 🌍 IDIOMAS
-
-| Idioma    | Nivel     |
-|-----------|-----------|
-| Español   | Nativo    |
-| Catalán   | Nativo    |
-| Inglés    | Avanzado  |
-| Portugués | Básico    |
-
----
-
-## 🦾 ¿POR QUÉ ASHLEY?
-
-- Soluciona lo imposible y crea lo increíble
-- Siempre a la vanguardia tecnológica
-- Apoyo técnico, creatividad y actitud arrolladora
-- Si ves este currículum, **no querrás mirar otro**
-
----
-
-## 📞 CONTACTO
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-athas0606@gmail.com-yellow?style=flat-square&logo=gmail&logoColor=black">
-  <img src="https://img.shields.io/badge/Tel-%2B34%20686%2075%2019%2009-yellow?style=flat-square&logo=iphone&logoColor=black">
-  <img src="https://img.shields.io/badge/Barcelona-Esplugues%20de%20Llobregat-black?style=flat-square&logo=location&logoColor=yellow">
+  <img src="https://img.shields.io/badge/C-263238?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unix-263238?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-263238?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-263238?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-00E5FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astro-7F00FF?style=for-the-badge&logo=astro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-2962FF?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" alt="Hire Me"/>
-  <br>
-  <b>¡Contrátame antes de que lo haga tu competencia!</b>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Epic Skills"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGEeI4t0R6v8Fmo/giphy.gif" width="400" alt="Deslumbrando talento"/>
-</p>
-
----
-
-> _¿Quieres ver magia en tu equipo tech?  
-> Ashley Cast Boix, la respuesta.  
-> <span style="color:#FFD600;font-size:1.5em;">🟡🖤</span>_
