@@ -51,21 +51,92 @@
 
 ## 🛠️ SKILLS DE OTRO NIVEL
 
-**Lenguajes:**  
-`Java`, `SQL`, `JavaScript`, `C#`, `C++`, `HTML`, `CSS`, `Swift`
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FFD600?style=for-the-badge&logo=java&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-FFD600?style=for-the-badge&logo=csharp&logoColor=black">
+  <img src="https://img.shields.io/badge/C%2B%2B-FFD600?style=for-the-badge&logo=cpp&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-FFD600?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS3-FFD600?style=for-the-badge&logo=css3&logoColor=black">
+  <img src="https://img.shields.io/badge/Swift-FFD600?style=for-the-badge&logo=swift&logoColor=black">
+  <img src="https://img.shields.io/badge/Unity-FFD600?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-FFD600?style=for-the-badge&logo=unrealengine&logoColor=black">
+  <img src="https://img.shields.io/badge/React-FFD600?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-FFD600?style=for-the-badge&logo=next.js&logoColor=black">
+  <img src="https://img.shields.io/badge/Express-FFD600?style=for-the-badge&logo=express&logoColor=black">
+  <img src="https://img.shields.io/badge/MongoDB-FFD600?style=for-the-badge&logo=mongodb&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-FFD600?style=for-the-badge&logo=amazonaws&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux-FFD600?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows%20Server-FFD600?style=for-the-badge&logo=windows&logoColor=black">
+</p>
 
-**Frameworks & Engines:**  
-`Unity`, `Unreal Engine`, `Next.js`, `React`, `Express`
+---
 
-**Bases de datos:**  
-`MongoDB`
+### 📊 Dominio de Skills (¡Gráfica visual!)
 
-**Otros:**  
-`AWS`, `Linux`, `Windows Server`, `VMs`, `Edición de vídeo`, `Administración web`
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Java','JavaScript','C#','HTML/CSS','Unity/Unreal','React/Next.js','Express/MongoDB','C++/Swift','AWS','Linux/Win Server','Edición de vídeo'],datasets:[{label:'Dominio',data:[90,80,70,100,80,70,60,40,50,70,40],backgroundColor:'rgba(255,214,0,0.9)'}]},options:{scales:{x:{ticks:{color:'black'}},y:{beginAtZero:true,max:100,ticks:{color:'black'}}},plugins:{legend:{display:false}}}}"
+  alt="Bar Chart Skills" width="700">
+</p>
 
-> 💡 **Superpoder:**  
-> Resolver cualquier incidencia antes de que te des cuenta.  
-> Crear experiencias únicas en cada proyecto.
+| Skill              | Nivel Visual         | % Dominio |
+|--------------------|---------------------|-----------|
+| Java               | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟦        | 90%       |
+| JavaScript         | 🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦        | 80%       |
+| C#                 | 🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦        | 70%       |
+| HTML/CSS           | 🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨        | 100%      |
+| Unity/Unreal       | 🟨🟨🟨🟨🟨🟨🟨🟨🟦🟦        | 80%       |
+| React/Next.js      | 🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦        | 70%       |
+| Express/MongoDB    | 🟨🟨🟨🟨🟨🟨🟦🟦🟦🟦        | 60%       |
+| C++/Swift          | 🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦        | 40%       |
+| AWS                | 🟨🟨🟨🟨🟨🟦🟦🟦🟦🟦        | 50%       |
+| Linux/Win Server   | 🟨🟨🟨🟨🟨🟨🟨🟦🟦🟦        | 70%       |
+| Edición de vídeo   | 🟨🟨🟨🟨🟦🟦🟦🟦🟦🟦        | 40%       |
+
+_🟨 = Dominio avanzado | 🟦 = Buen manejo | 🟦🟦 = Intermedio_
+
+---
+
+### 🎮 Skills en Videojuegos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-Game%20Dev-%23FFD600?style=for-the-badge&logo=unity&logoColor=black">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-Level%20Design-%23FFD600?style=for-the-badge&logo=unrealengine&logoColor=black">
+</p>
+
+- Diseño de niveles
+- Lógica de gameplay
+- Programación de físicas e IA
+
+---
+
+### 🔐 Skills en Sistemas y Redes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Admin-%23FFD600?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows%20Server-Mantenimiento-%23FFD600?style=for-the-badge&logo=windows&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Ops-%23FFD600?style=for-the-badge&logo=amazonaws&logoColor=black">
+</p>
+
+- Administración de redes y servidores
+- Gestión de máquinas virtuales
+- Resolución de incidencias técnicas
+
+---
+
+### 🚀 Skills Creativas y Soft
+
+| Creatividad | 🔥🔥🔥🔥🔥 |
+| Trabajo en equipo | 💪💪💪💪💪 |
+| Aprendizaje rápido | ⚡⚡⚡⚡⚡ |
+| Resolución de problemas | 🚀🚀🚀🚀🚀 |
+| Liderazgo | 👑👑👑👑👑 |
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU3bGVwYm52bDBkZ2c2MGVqcGNiMGt6bDg2bmNndmtlMGF4b3U3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="400" alt="Skills Deslumbrantes"/>
+</p>
 
 ---
 
